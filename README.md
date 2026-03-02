@@ -1,2 +1,2 @@
 # stud_python
-Data analytics projects with Python 
+Exercises and projects completed in Python
